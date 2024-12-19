@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vegname-react/static/css/main.073c9b0a.css",
+    "main.js": "/vegname-react/static/js/main.65fd6bb2.js",
+    "static/js/787.e577274b.chunk.js": "/vegname-react/static/js/787.e577274b.chunk.js",
+    "static/media/logo.svg": "/vegname-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/vegname-react/index.html",
+    "main.073c9b0a.css.map": "/vegname-react/static/css/main.073c9b0a.css.map",
+    "main.65fd6bb2.js.map": "/vegname-react/static/js/main.65fd6bb2.js.map",
+    "787.e577274b.chunk.js.map": "/vegname-react/static/js/787.e577274b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.65fd6bb2.js"
+  ]
+}
